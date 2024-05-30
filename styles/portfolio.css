@@ -1,6 +1,7 @@
 nav {
     display: flex;
     justify-content: space-between;
+    margin:  0 200px;
 }
 body{
     
@@ -51,3 +52,14 @@ body{
 
 
       }
+      .header{
+        background-color: rgb(255, 248, 243);
+      }
+      .banner{
+        padding: 30px 30px 30px 150px ;
+        display: flex;
+        align-items: center;
+      }
+      .banner.profile-picture{
+        width: 500px;
+}
