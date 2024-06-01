@@ -119,8 +119,7 @@ nav a {
   padding: 130px;
   border-radius: 10px;
   background: rgb(255, 248, 243);
-  margin:130px;
-
+   margin-top: 130px;
 }
 
 .section-h3 {
@@ -136,5 +135,17 @@ nav a {
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
+  text-align: center;
+}
+main{
+  width: 1140px;
+  margin:0px auto;
+  
+}
+.about-info-container{
+  display: flex;
+  justify-content: space-around;
+}
+.about-info{
   text-align: center;
 }
