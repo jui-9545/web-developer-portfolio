@@ -3,7 +3,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 0 200px;
+  margin: 0px 200px;
 }
 
 body {
@@ -200,26 +200,47 @@ main section {
   color: rgb(117, 117, 117);
 
 }
-.resume-h2{
+
+.resume-h2 {
   color: rgb(71, 71, 71);
-font-size: 25px;
+  font-size: 25px;
 
 }
-.resume-h3{
+
+.resume-h3 {
   margin-top: 10px;
-  margin-bottom: 20px;;
+  margin-bottom: 20px;
+  ;
 }
-   .button-d{
-    border-radius: 5px;
-    background: rgb(253, 110, 10);
-    border: 0;
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    font-weight: 700;
-    color: white;
-    padding: 18px 35px 19px 36px;
-    margin-left: 500px;
-}   
-.download-cv{
- text-align: center;
+
+.button-d {
+  border-radius: 5px;
+  background: rgb(253, 110, 10);
+  border: 0;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  padding: 18px 35px 19px 36px;
+  margin-left: 500px;
 }
+
+.download-cv {
+  text-align: center;
+}
+
+.section-title {
+  color: rgb(24, 24, 24);
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 48px;
+  
+}
+ .footer-section{
+  display: flex; 
+}
+ footer{
+  background: rgb(255, 248, 243);
+  padding: 130px 230px;
+  margin: 130px;
+ }
