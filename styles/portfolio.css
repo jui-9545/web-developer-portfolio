@@ -209,3 +209,17 @@ font-size: 25px;
   margin-top: 10px;
   margin-bottom: 20px;;
 }
+   .button-d{
+    border-radius: 5px;
+    background: rgb(253, 110, 10);
+    border: 0;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 18px 35px 19px 36px;
+    margin-left: 500px;
+}   
+.download-cv{
+ text-align: center;
+}
